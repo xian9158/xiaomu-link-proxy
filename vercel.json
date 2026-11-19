@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "https://xiaomu-link.xiaomu-link.workers.dev/$1" }
+  ]
+}
